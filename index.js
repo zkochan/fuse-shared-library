@@ -13,6 +13,9 @@ switch (platform) {
   case 'linux-arm':
     module.exports = require('fuse-shared-library-linux-arm')
     break
+  case 'win32':
+    module.exports = require('fuse-shared-library-win32')
+    break
    default:
     throw new Error(`fuse-shared-library is not currently supported on: ${platform}`)
 }

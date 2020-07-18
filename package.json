@@ -22,7 +22,8 @@
   "dependencies": {
     "fuse-shared-library-darwin": "^1.0.3",
     "fuse-shared-library-linux": "^1.0.1",
-    "fuse-shared-library-linux-arm": "^1.0.0"
+    "fuse-shared-library-linux-arm": "^1.0.0",
+    "fuse-shared-library-win32": "raymond-h/fuse-shared-library-win32#3b17c4c8b2dc630fcc68a681564367a772145f42"
   },
   "devDependencies": {
     "standard": "^12.0.1"
