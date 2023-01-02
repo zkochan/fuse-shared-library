@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/fuse-friends/fuse-shared-library#readme",
   "dependencies": {
-    "fuse-shared-library-darwin": "https://github.com/SandruSebastian/fuse-shared-library-darwin.git",
+    "fuse-shared-library-darwin": "https://github.com/refinio/fuse-shared-library-darwin.git",
     "fuse-shared-library-linux": "^1.0.1",
     "fuse-shared-library-linux-arm": "^1.0.0",
     "fuse-shared-library-win32": "raymond-h/fuse-shared-library-win32#07f3432c82180e8fdbe2a43c89cac234ff268796"
